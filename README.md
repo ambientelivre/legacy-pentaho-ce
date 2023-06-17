@@ -15,5 +15,5 @@ Older versions of pentaho have been removed from sourceforge.net/projetcs/pentah
 [pdi-ce-7.1.0.0-12](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pdi-ce-7.1.0.0-12/pdi-ce-7.1.0.0-12.zip) 
 
 #### 5.0
-[pdi-ce-7.1.0.0-12](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/7.1.0.0-12/pdi-ce-7.1.0.0-12.zip) 
+[pdi-ce-5.0.1](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pdi-ce-5.0.1/pdi-ce-5.0.1-stable.zip) 
 

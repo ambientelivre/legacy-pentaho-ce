@@ -24,7 +24,7 @@ Older versions of pentaho have been removed from sourceforge.net/projects/pentah
 #### 3.x
 [pdi-open-3.0.4]() 
 
-[Kettle-3.0.2]() 
+[Kettle-3.0.2](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/Kettle-3.0.2/Kettle-3.0.2.zip) 
 
 
 

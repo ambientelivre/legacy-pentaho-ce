@@ -17,3 +17,8 @@ Older versions of pentaho have been removed from sourceforge.net/projetcs/pentah
 #### 5.0
 [pdi-ce-5.0.1](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pdi-ce-5.0.1/pdi-ce-5.0.1-stable.zip) 
 
+### Download Pentaho Schema Workbeanch
+#### 3
+[psw-ce-3.11.0.0-353](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/psw-ce-3.11.0.0-353/psw-ce-3.11.0.0-353.zip) 
+
+

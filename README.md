@@ -10,6 +10,10 @@ Older versions of pentaho have been removed from sourceforge.net/projects/pentah
 #### 7.1 
 [pentaho-server-ce-7.1.0.0-12](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/7.1.0.0-12/pentaho-server-ce-7.1.0.0-12.zip) 
 
+#### 5.0
+[]() 
+
+
 ### Download Pentaho Data Integration
 #### 7.1 
 [pdi-ce-7.1.0.0-12](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pdi-ce-7.1.0.0-12/pdi-ce-7.1.0.0-12.zip) 
@@ -35,6 +39,17 @@ Older versions of pentaho have been removed from sourceforge.net/projects/pentah
 [psw-ce-3.9.0.0-213](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/psw-ce-3.9.0.0-213/psw-ce-3.9.0.0-213.zip)
 
 [psw-ce-3.8.0.0-209](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/psw-ce-3.8.0.0-209/psw-ce-3.8.0.0-209.zip)
+
+### Download Pentaho Metadata Editior
+#### 5
+
+[]()
+
+### Download Pentaho Report Designer
+#### 5
+
+[]()
+
 
 
 

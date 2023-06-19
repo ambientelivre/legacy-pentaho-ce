@@ -30,6 +30,10 @@ Older versions of pentaho have been removed from sourceforge.net/projetcs/pentah
 
 [psw-ce-3.10.0.1-130](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/psw-ce-3.10.0.1-130/psw-ce-3.10.0.1-130.zip)
 
+[psw-ce-3.9.0.0-213](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/psw-ce-3.9.0.0-213/psw-ce-3.9.0.0-213.zip)
+
+
+
 
 
 

@@ -48,7 +48,7 @@ Older versions of pentaho have been removed from sourceforge.net/projects/pentah
 ### Download Pentaho Report Designer
 #### 5
 
-[prd-ce-5.0.1-stable]()
+[prd-ce-5.0.1-stable](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/prd-ce-5.0.1-stable/prd-ce-5.0.1-stable.zip)
 
 
 

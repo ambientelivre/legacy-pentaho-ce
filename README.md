@@ -22,8 +22,6 @@ Older versions of pentaho have been removed from sourceforge.net/projetcs/pentah
 
 [psw-ce-3.13.0.0-25](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/psw-ce-3.13.0.0-25/psw-ce-3.13.0.0-25.zip) 
 [psw-ce-3.12.0.1-196](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/psw-ce-3.12.0.1-196/psw-ce-3.12.0.1-196.zip) 
-
-
 [psw-ce-3.11.1.0-386](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/psw-ce-3.11.1/psw-ce-3.11.1.0-386.zip) 
 [psw-ce-3.11.0.0-353](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/psw-ce-3.11.0.0-353/psw-ce-3.11.0.0-353.zip) 
 

@@ -10,7 +10,7 @@ Older versions of pentaho have been removed from sourceforge.net/projects/pentah
 
 #### 8.x
 [pentaho-server-ce-8.1.0.0-365](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-server-ce-8.1.0.0-365/pentaho-server-ce-8.1.0.0-365.zip) 
-
+[pentaho-server-ce-8.0.0.0-28](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-server-ce-8.0.0.0-28/pentaho-server-ce-8.0.0.0-28.zip) 
 
 #### 7.x 
 [pentaho-server-ce-7.1.0.0-12](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/7.1.0.0-12/pentaho-server-ce-7.1.0.0-12.zip) 
@@ -30,8 +30,6 @@ Older versions of pentaho have been removed from sourceforge.net/projects/pentah
 [pdi-open-3.0.4](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pdi-open-3.0.4/pdi-open-3.0.4.zip) 
 
 [Kettle-3.0.2](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/Kettle-3.0.2/Kettle-3.0.2.zip) 
-
-
 
 ### Download Pentaho Schema Workbeanch
 #### 3.x

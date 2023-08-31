@@ -7,6 +7,11 @@ Older versions of pentaho have been removed from sourceforge.net/projects/pentah
 ## current versions:
 
 ### Download Pentaho Server
+
+#### 8.x
+[pentaho-server-ce-8.1.0.0-365](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-server-ce-8.1.0.0-365/pentaho-server-ce-8.1.0.0-365.zip) 
+
+
 #### 7.x 
 [pentaho-server-ce-7.1.0.0-12](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/7.1.0.0-12/pentaho-server-ce-7.1.0.0-12.zip) 
 

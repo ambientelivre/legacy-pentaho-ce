@@ -60,7 +60,7 @@ Older versions of pentaho have been removed from sourceforge.net/projects/pentah
 ## Contribs
 Version 8.0 and 8.1 [Marco Smanioto](https://github.com/masmanioto)
 
-You have oder version not list in this repo ? Send link from zip marcio at ambientelivre.com.br! 
+You have other version not list in this repo ? Send the link from zip marcio at ambientelivre.com.br!
 
 
 

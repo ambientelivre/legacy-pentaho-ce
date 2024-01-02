@@ -25,7 +25,7 @@ Older versions of pentaho have been removed from sourceforge.net/projects/pentah
 [pdi-ce-7.1.0.0-12](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pdi-ce-7.1.0.0-12/pdi-ce-7.1.0.0-12.zip) 
 
 #### 6.x
-[pdi-ce-6.0.1](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pdi-ce-5.0.1/pdi-ce-5.0.1-stable.zip) 
+[pdi-ce-6.0.1](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pdi-ce-6.0.1.0-386/pdi-ce-6.0.1.0-386.zip) 
 
 #### 5.x
 [pdi-ce-5.0.1](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pdi-ce-5.0.1/pdi-ce-5.0.1-stable.zip) 
@@ -66,6 +66,7 @@ Older versions of pentaho have been removed from sourceforge.net/projects/pentah
 
 ## Contribs
 Version 8.0 and 8.1 [Marco Smanioto](https://github.com/masmanioto)
+Version 6.1 and 4.4 [ Veerapat Taweesapaya](https://www.linkedin.com/in/veerapat-taweesapaya-800244187)
 
 You have other version not list in this repo ? Send the link from zip marcio at ambientelivre.com.br!
 

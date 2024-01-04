@@ -67,16 +67,11 @@ Older versions of pentaho have been removed from sourceforge.net/projects/pentah
 
 [prd-ce-5.0.1-stable](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/prd-ce-5.0.1-stable/prd-ce-5.0.1-stable.zip)
 
+## Project Lead
+[Marcio Junior Vieira](https://www.linkedin.com/in/mvieira1/)
+
 ## Contribs
 Version 8.0 and 8.1 [Marco Smanioto](https://github.com/masmanioto)
-Version 6.1 and 4.4 [ Veerapat Taweesapaya](https://www.linkedin.com/in/veerapat-taweesapaya-800244187)
+Version 6.1 and 4.4 [Veerapat Taweesapaya](https://www.linkedin.com/in/veerapat-taweesapaya-800244187)
 
 You have other version not list in this repo ? Send the link from zip marcio at ambientelivre.com.br!
-
-
-
-
-
-
-
-

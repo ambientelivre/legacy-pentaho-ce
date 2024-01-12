@@ -70,6 +70,9 @@ Older versions of pentaho have been removed from sourceforge.net/projects/pentah
 ## Project Lead
 [Marcio Junior Vieira](https://www.linkedin.com/in/mvieira1/) - [Ambiente Livre](https://www.ambientelivre.com.br)
 
+## Sponsor
+[Ambiente Livre](https://www.ambientelivre.com.br)
+
 ## Contribs
 Version 8.0 and 8.1 [Marco Smanioto](https://github.com/masmanioto)
 

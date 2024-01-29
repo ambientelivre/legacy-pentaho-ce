@@ -128,6 +128,10 @@ Older versions of pentaho have been removed from sourceforge.net/projects/pentah
 #### 5.x
 [prd-ce-5.0.1-stable](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/prd-ce-5.0.1-stable/prd-ce-5.0.1-stable.zip)
 
+### Download Big Data Plugin
+#### 9.x
+[pentaho-big-data-plugin-9.3.0.0-428](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-big-data-plugin-9.3.0.0-428/pentaho-big-data-plugin-9.3.0.0-428.zip)
+
 ## Project Lead
 [Marcio Junior Vieira](https://www.linkedin.com/in/mvieira1/) - [Ambiente Livre](https://www.ambientelivre.com.br)
 

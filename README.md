@@ -81,6 +81,12 @@ Older versions of pentaho have been removed from sourceforge.net/projects/pentah
 #### 9.x 
 [pdi-ce-9.4.0.0-343-hadoop-addon](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pdi-ce-9.4.0.0-343-hadoop-addon/pdi-ce-9.4.0.0-343-hadoop-addon.zip) 
 
+### Download Kettle SDK Plugin
+#### 9.x 
+[kettle-sdk-plugin-assembly-9.4.0.0-343](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/kettle-sdk-plugin-assembly-9.4.0.0-343/kettle-sdk-plugin-assembly-9.4.0.0-343.zip) 
+
+[kettle-sdk-plugin-assembly-9.3.0.0-428](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/kettle-sdk-plugin-assembly-9.3.0.0-428/kettle-sdk-plugin-assembly-9.3.0.0-428.zip) 
+
 
 ### Download Pentaho Schema Workbeanch
 #### 9.x

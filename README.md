@@ -63,6 +63,11 @@ Older versions of pentaho have been removed from sourceforge.net/projects/pentah
 
 [Kettle-3.0.2](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/Kettle-3.0.2/Kettle-3.0.2.zip) 
 
+### Download Addons Hadoop Pentaho Data Integration
+#### 9.x 
+[pdi-ce-9.4.0.0-343-hadoop-addon](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pdi-ce-9.4.0.0-343-hadoop-addon/pdi-ce-9.4.0.0-343-hadoop-addon.zip) 
+
+
 ### Download Pentaho Schema Workbeanch
 #### 3.x
 

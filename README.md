@@ -70,6 +70,8 @@ Older versions of pentaho have been removed from sourceforge.net/projects/pentah
 
 ### Download Pentaho Schema Workbeanch
 #### 9.x
+[psw-ce-9.4.0.0-343](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/psw-ce-9.4.0.0-343/psw-ce-9.4.0.0-343.zip)
+
 [psw-ce-9.3.0.0-428](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/psw-ce-9.3.0.0-428/psw-ce-9.3.0.0-428.zip)
 
 #### 3.x

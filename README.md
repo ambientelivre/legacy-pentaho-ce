@@ -86,8 +86,13 @@ Older versions of pentaho have been removed from sourceforge.net/projects/pentah
 [pme-ce-5.0.1-stable](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pme-ce-5.0.1/pme-ce-5.0.1-stable.zip)
 
 ### Download Pentaho Report Designer
-#### 5.x
+#### 9.x
+[prd-ce-9.0.0.0-423](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/prd-ce-9.0.0.0-423/prd-ce-9.0.0.0-423.zip)
 
+#### 8.x
+[prd-ce-8.3.0.0-371](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/prd-ce-8.3.0.0-371/prd-ce-8.3.0.0-371.zip)
+
+#### 5.x
 [prd-ce-5.0.1-stable](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/prd-ce-5.0.1-stable/prd-ce-5.0.1-stable.zip)
 
 ## Project Lead

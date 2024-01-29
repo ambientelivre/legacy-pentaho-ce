@@ -109,6 +109,8 @@ Older versions of pentaho have been removed from sourceforge.net/projects/pentah
 #### 9.x
 [pad-ce-9.4.0.0-343](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pad-ce-9.4.0.0-343/pad-ce-9.4.0.0-343.zip)
 
+[pad-ce-9.3.0.0-428](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pad-ce-9.3.0.0-428/pad-ce-9.3.0.0-428.zip)
+
 #### 7.x
 [pad-ce-7.1.0.0-12](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pad-ce-7.1.0.0-12/pad-ce-7.1.0.0-12.zip)
 

@@ -16,6 +16,9 @@ Older versions of pentaho have been removed from sourceforge.net/projects/pentah
 #### 7.x 
 [pentaho-server-ce-7.1.0.0-12](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/7.1.0.0-12/pentaho-server-ce-7.1.0.0-12.zip) 
 
+#### 6.x 
+[pentaho-server-6.1.0.1-196](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-server-6.1.0.1-196/pentaho-server-6.1.0.1-196.zip) 
+
 #### 5.x
 [biserver-ce-5.0.1-stable](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/biserver-ce-5.0.1-stable/biserver-ce-5.0.1-stable.zip) 
 

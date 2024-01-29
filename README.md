@@ -35,6 +35,13 @@ Older versions of pentaho have been removed from sourceforge.net/projects/pentah
 #### 5.x
 [biserver-ce-5.0.1-stable](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/biserver-ce-5.0.1-stable/biserver-ce-5.0.1-stable.zip) 
 
+### Download Pentaho Server (Manual Install)
+
+#### 9.x
+[pentaho-server-manual-ce-9.4.0.0-343](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-server-manual-ce-9.4.0.0-343/pentaho-server-manual-ce-9.4.0.0-343.zip) 
+
+[pentaho-server-manual-ce-9.3.0.0-428](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-server-manual-ce-9.3.0.0-428/pentaho-server-manual-ce-9.3.0.0-428.zip) 
+
 
 ### Download Pentaho Data Integration
 #### 9.x 

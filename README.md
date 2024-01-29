@@ -106,6 +106,9 @@ Older versions of pentaho have been removed from sourceforge.net/projects/pentah
 [psw-ce-3.8.0.0-209](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/psw-ce-3.8.0.0-209/psw-ce-3.8.0.0-209.zip)
 
 ### Download Pentaho Aggregation Desiner
+#### 9.x
+[pad-ce-9.4.0.0-343](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pad-ce-9.4.0.0-343/pad-ce-9.4.0.0-343.zip)
+
 #### 7.x
 [pad-ce-7.1.0.0-12](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pad-ce-7.1.0.0-12/pad-ce-7.1.0.0-12.zip)
 

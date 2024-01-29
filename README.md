@@ -110,8 +110,10 @@ Older versions of pentaho have been removed from sourceforge.net/projects/pentah
 [pad-ce-7.1.0.0-12](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pad-ce-7.1.0.0-12/pad-ce-7.1.0.0-12.zip)
 
 ### Download Pentaho Metadata Editior
-#### 5.x
+#### 9.x
+[pme-ce-9.4.0.0-343](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pme-ce-9.4.0.0-343/pme-ce-9.4.0.0-343.zip)
 
+#### 5.x
 [pme-ce-5.0.1-stable](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pme-ce-5.0.1/pme-ce-5.0.1-stable.zip)
 
 ### Download Pentaho Report Designer

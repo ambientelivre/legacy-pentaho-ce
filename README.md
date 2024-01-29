@@ -78,6 +78,6 @@ Version 8.0 and 8.1 [Marco Smanioto](https://github.com/masmanioto)
 
 Version 6.1 and 4.4 [Veerapat Taweesapaya](https://www.linkedin.com/in/veerapat-taweesapaya-800244187)
 
-Version 6.1,8.1,8.2,8.3,9.0,9.1 and 9.2 [Fernando Maia da Mota](https://github.com/fernandommota)
+Version 6.1, 8.1, 8.2, 8.3, 9.0, 9.1 and 9.2 [Fernando Maia da Mota](https://github.com/fernandommota)
 
 You have other version not list in this repo ? Send the link from zip marcio at ambientelivre.com.br!

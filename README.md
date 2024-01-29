@@ -57,9 +57,7 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 
 [pdi-ce-9.0.0.0-423](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pdi-ce-9.0.0.0-423/pdi-ce-9.0.0.0-423.zip) 
 
-
 #### 8.x 
-
 [pdi-ce-8.3.0.0-371](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pdi-ce-8.3.0.0-371/pdi-ce-8.3.0.0-371.zip) 
 
 [pdi-ce-8.2.0.0-342](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pdi-ce-8.2.0.0-342/pdi-ce-8.2.0.0-342.zip) 
@@ -137,6 +135,12 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 
 ### Download Pentaho Report Designer
 #### 9.x
+[prd-ce-9.4.0.0-343](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/prd-ce-9.4.0.0-343/prd-ce-9.4.0.0-343.zip)
+
+[prd-ce-9.3.0.0-428](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/prd-ce-9.3.0.0-428/prd-ce-9.3.0.0-428.zip)
+
+[prd-ce-9.2.0.0-290](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/prd-ce-9.2.0.0-290/prd-ce-9.2.0.0-290.zip)
+
 [prd-ce-9.0.0.0-423](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/prd-ce-9.0.0.0-423/prd-ce-9.0.0.0-423.zip)
 
 #### 8.x

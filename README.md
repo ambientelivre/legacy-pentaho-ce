@@ -113,6 +113,8 @@ Older versions of pentaho have been removed from sourceforge.net/projects/pentah
 #### 9.x
 [pme-ce-9.4.0.0-343](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pme-ce-9.4.0.0-343/pme-ce-9.4.0.0-343.zip)
 
+[pme-ce-9.3.0.0-428](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pme-ce-9.3.0.0-428/pme-ce-9.3.0.0-428.zip)
+
 #### 5.x
 [pme-ce-5.0.1-stable](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pme-ce-5.0.1/pme-ce-5.0.1-stable.zip)
 

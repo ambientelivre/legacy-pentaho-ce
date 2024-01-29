@@ -21,8 +21,12 @@ Older versions of pentaho have been removed from sourceforge.net/projects/pentah
 
 
 ### Download Pentaho Data Integration
-#### 8.x 
+#### 9.x 
 [pdi-ce-9.0.0.0-423](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pdi-ce-9.0.0.0-423/pdi-ce-9.0.0.0-423.zip) 
+
+[pdi-ce-9.2.0.0-290](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pdi-ce-9.2.0.0-290/pdi-ce-9.2.0.0-290.zip) 
+
+#### 8.x 
 
 [pdi-ce-8.3.0.0-371](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pdi-ce-8.3.0.0-371/pdi-ce-8.3.0.0-371.zip) 
 

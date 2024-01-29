@@ -4,6 +4,10 @@ Legacy versions - Pentaho CE
 ### Sourceforge.net 
 Older versions of pentaho have been removed from sourceforge.net/projects/pentaho , let's group some versions here for the use case in legacy projects.
 
+For official Hitachi downloads go to: [https://www.hitachivantara.com/en-us/products/pentaho-plus-platform/data-integration-analytics/pentaho-community-edition.html](https://www.hitachivantara.com/en-us/products/pentaho-plus-platform/data-integration-analytics/pentaho-community-edition.html) 
+Currently only versions 9.4, 9.3, 9.2 and 8.3.
+
+
 ## current versions:
 
 ### Download Pentaho Server

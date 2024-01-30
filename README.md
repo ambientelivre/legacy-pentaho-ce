@@ -105,6 +105,9 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 
 [psw-ce-9.3.0.0-428](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/psw-ce-9.3.0.0-428/psw-ce-9.3.0.0-428.zip)
 
+#### 8.x
+[psw-ce-8.3.0.0-371](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/psw-ce-8.3.0.0-371/psw-ce-8.3.0.0-371.zip)
+
 #### 3.x
 [psw-ce-3.13.0.0-25](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/psw-ce-3.13.0.0-25/psw-ce-3.13.0.0-25.zip)
 

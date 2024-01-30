@@ -90,7 +90,7 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 #### 9.x 
 [pdi-ce-9.4.0.0-343-hadoop-addon](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pdi-ce-9.4.0.0-343-hadoop-addon/pdi-ce-9.4.0.0-343-hadoop-addon.zip) 
 
-### Download Kettle SDK Plugin
+### Download Pentaho Data Integration Software Development Kit
 #### 9.x 
 [kettle-sdk-plugin-assembly-9.4.0.0-343](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/kettle-sdk-plugin-assembly-9.4.0.0-343/kettle-sdk-plugin-assembly-9.4.0.0-343.zip) 
 
@@ -155,7 +155,6 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 ### Download Pentaho Metadata Editor Hadoop addon (support hive/impala connectivity as a datasource)
 #### 9.x
 [pme-ce-9.4.0.0-343-hadoop-addon](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pme-ce-9.4.0.0-343-hadoop-addon/pme-ce-9.4.0.0-343-hadoop-addon.zip)
-
 
 ### Download Pentaho Report Designer
 #### 9.x

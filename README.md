@@ -96,6 +96,12 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 
 [kettle-sdk-plugin-assembly-9.3.0.0-428](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/kettle-sdk-plugin-assembly-9.3.0.0-428/kettle-sdk-plugin-assembly-9.3.0.0-428.zip) 
 
+[kettle-sdk-plugin-assembly-9.2.0.0-290](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/kettle-sdk-plugin-assembly-9.2.0.0-290/kettle-sdk-plugin-assembly-9.2.0.0-290.zip) 
+
+#### 8.x 
+[kettle-sdk-plugin-assembly-8.3.0.0-371](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/kettle-sdk-plugin-assembly-8.3.0.0-371/kettle-sdk-plugin-assembly-8.3.0.0-371.zip) 
+
+
 ### Download Pentaho Schema Workbeanch
 #### 9.x
 [psw-ce-9.4.0.0-343](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/psw-ce-9.4.0.0-343/psw-ce-9.4.0.0-343.zip)

@@ -132,6 +132,8 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 #### 9.x
 [pme-ce-9.4.0.0-343](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pme-ce-9.4.0.0-343/pme-ce-9.4.0.0-343.zip)
 
+[pme-ce-9.2.0.0-290](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pme-ce-9.2.0.0-290/pme-ce-9.2.0.0-290.zip)
+
 [pme-ce-9.3.0.0-428](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pme-ce-9.3.0.0-428/pme-ce-9.3.0.0-428.zip)
 
 #### 5.x

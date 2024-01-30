@@ -125,6 +125,8 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 
 [pad-ce-9.3.0.0-428](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pad-ce-9.3.0.0-428/pad-ce-9.3.0.0-428.zip)
 
+[pad-ce-9.2.0.0-290](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pad-ce-9.2.0.0-290/pad-ce-9.2.0.0-290.zip)
+
 #### 7.x
 [pad-ce-7.1.0.0-12](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pad-ce-7.1.0.0-12/pad-ce-7.1.0.0-12.zip)
 

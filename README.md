@@ -41,7 +41,7 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 #### 5.x
 [biserver-ce-5.0.1-stable](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/biserver-ce-5.0.1-stable/biserver-ce-5.0.1-stable.zip) 
 
-### Download Pentaho Server (Manual Install)
+### Download Pentaho Server manual install assembly
 
 #### 9.x
 [pentaho-server-manual-ce-9.4.0.0-343](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-server-manual-ce-9.4.0.0-343/pentaho-server-manual-ce-9.4.0.0-343.zip) 
@@ -49,6 +49,9 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 [pentaho-server-manual-ce-9.2.0.0-290](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-server-manual-ce-9.2.0.0-290/pentaho-server-manual-ce-9.2.0.0-290.zip) 
 
 [pentaho-server-manual-ce-9.3.0.0-428](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-server-manual-ce-9.3.0.0-428/pentaho-server-manual-ce-9.3.0.0-428.zip) 
+
+#### 8.x
+[pentaho-server-manual-ce-8.3.0.0-371](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-server-manual-ce-8.3.0.0-371/pentaho-server-manual-ce-8.3.0.0-371.zip) 
 
 
 ### Download Pentaho Data Integration

@@ -182,6 +182,11 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 
 [pre-classic-sdk-9.2.0.0-290](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pre-classic-sdk-9.2.0.0-290/pre-classic-sdk-9.2.0.0-290.zip)
 
+#### 8.x
+[pre-classic-sdk-8.3.0.0-371](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pre-classic-sdk-8.3.0.0-371/pre-classic-sdk-8.3.0.0-371.zip)
+
+
+
 
 ### Download Big Data Plugin
 #### 9.x

@@ -162,6 +162,9 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 
 [prd-ce-9.0.0.0-423](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/prd-ce-9.0.0.0-423/prd-ce-9.0.0.0-423.zip)
 
+#### 3.x 
+Get in [https://sourceforge.net/projects/jfreereport](https://sourceforge.net/projects/jfreereport)
+
 #### 8.x
 [prd-ce-8.3.0.0-371](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/prd-ce-8.3.0.0-371/prd-ce-8.3.0.0-371.zip)
 

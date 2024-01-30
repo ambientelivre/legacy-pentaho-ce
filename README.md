@@ -157,6 +157,15 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 #### 5.x
 [prd-ce-5.0.1-stable](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/prd-ce-5.0.1-stable/prd-ce-5.0.1-stable.zip)
 
+### Download Pentaho Reporting Engine Software Development Kit
+#### 9.x
+[pre-classic-sdk-9.4.0.0-343](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pre-classic-sdk-9.4.0.0-343/pre-classic-sdk-9.4.0.0-343.zip)
+
+[pre-classic-sdk-9.3.0.0-428](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pre-classic-sdk-9.3.0.0-428/pre-classic-sdk-9.3.0.0-428.zip)
+
+[pre-classic-sdk-9.2.0.0-290](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pre-classic-sdk-9.2.0.0-290/pre-classic-sdk-9.2.0.0-290.zip)
+
+
 ### Download Big Data Plugin
 #### 9.x
 [pentaho-big-data-plugin-9.4.0.0-343](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-big-data-plugin-9.4.0.0-343/pentaho-big-data-plugin-9.4.0.0-343.zip)

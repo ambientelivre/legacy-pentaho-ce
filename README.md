@@ -146,6 +146,9 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 
 [pme-ce-9.3.0.0-428](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pme-ce-9.3.0.0-428/pme-ce-9.3.0.0-428.zip)
 
+#### 8.x
+[pme-ce-8.3.0.0-371](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pme-ce-8.3.0.0-371/pme-ce-8.3.0.0-371.zip)
+
 #### 5.x
 [pme-ce-5.0.1-stable](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pme-ce-5.0.1/pme-ce-5.0.1-stable.zip)
 
@@ -177,8 +180,6 @@ Get in [https://sourceforge.net/projects/jfreereport](https://sourceforge.net/pr
 #### 9.x
 [prd-ce-9.4.0.0-343-hadoop-addon](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/prd-ce-9.4.0.0-343-hadoop-addon/prd-ce-9.4.0.0-343-hadoop-addon.zip)
 
-
-
 ### Download Pentaho Reporting Engine Software Development Kit
 #### 9.x
 [pre-classic-sdk-9.4.0.0-343](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pre-classic-sdk-9.4.0.0-343/pre-classic-sdk-9.4.0.0-343.zip)
@@ -189,9 +190,6 @@ Get in [https://sourceforge.net/projects/jfreereport](https://sourceforge.net/pr
 
 #### 8.x
 [pre-classic-sdk-8.3.0.0-371](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pre-classic-sdk-8.3.0.0-371/pre-classic-sdk-8.3.0.0-371.zip)
-
-
-
 
 ### Download Big Data Plugin
 #### 9.x

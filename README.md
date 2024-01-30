@@ -159,7 +159,11 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 
 ### Download Big Data Plugin
 #### 9.x
+[pentaho-big-data-plugin-9.4.0.0-343](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-big-data-plugin-9.4.0.0-343/pentaho-big-data-plugin-9.4.0.0-343.zip)
+
 [pentaho-big-data-plugin-9.3.0.0-428](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-big-data-plugin-9.3.0.0-428/pentaho-big-data-plugin-9.3.0.0-428.zip)
+
+[pentaho-big-data-plugin-9.2.0.0-290](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-big-data-plugin-9.2.0.0-290/pentaho-big-data-plugin-9.2.0.0-290.zip)
 
 ## Project Lead
 [Marcio Junior Vieira](https://www.linkedin.com/in/mvieira1/) - [Ambiente Livre](https://www.ambientelivre.com.br)

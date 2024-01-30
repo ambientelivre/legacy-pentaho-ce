@@ -190,13 +190,16 @@ Get in [https://sourceforge.net/projects/jfreereport](https://sourceforge.net/pr
 #### 8.x
 [pre-classic-sdk-8.3.0.0-371](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pre-classic-sdk-8.3.0.0-371/pre-classic-sdk-8.3.0.0-371.zip)
 
-### Download Big Data Plugin
+### Download Pentaho Big data plugin to support Hadoop drivers
 #### 9.x
 [pentaho-big-data-plugin-9.4.0.0-343](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-big-data-plugin-9.4.0.0-343/pentaho-big-data-plugin-9.4.0.0-343.zip)
 
 [pentaho-big-data-plugin-9.3.0.0-428](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-big-data-plugin-9.3.0.0-428/pentaho-big-data-plugin-9.3.0.0-428.zip)
 
 [pentaho-big-data-plugin-9.2.0.0-290](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-big-data-plugin-9.2.0.0-290/pentaho-big-data-plugin-9.2.0.0-290.zip)
+
+#### 8.x
+[pentaho-big-data-plugin-8.3.0.0-371](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-big-data-plugin-8.3.0.0-371/pentaho-big-data-plugin-8.3.0.0-371.zip)
 
 ## Project Lead
 [Marcio Junior Vieira](https://www.linkedin.com/in/mvieira1/) - [Ambiente Livre](https://www.ambientelivre.com.br)

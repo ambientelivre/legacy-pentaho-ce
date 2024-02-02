@@ -200,6 +200,15 @@ Get in [https://sourceforge.net/projects/jfreereport](https://sourceforge.net/pr
 #### 8.x
 [pentaho-hadoop-shims-cdh61-package-8.3.2019.05.00-371-dist](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-hadoop-shims-cdh61-package-8.3.2019.05.00-371-dist/pentaho-hadoop-shims-cdh61-package-8.3.2019.05.00-371-dist.zip)
 
+[pentaho-hadoop-shims-cdh512-package-8.3.2019.05.00-371-dist](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-hadoop-shims-cdh512-package-8.3.2019.05.00-371-dist/pentaho-hadoop-shims-cdh512-package-8.3.2019.05.00-371-dist.zip)
+
+[pentaho-hadoop-shims-cdh513-package-8.3.2019.05.00-371-dist](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-hadoop-shims-cdh513-package-8.3.2019.05.00-371-dist/pentaho-hadoop-shims-cdh513-package-8.3.2019.05.00-371-dist.zip)
+
+[pentaho-hadoop-shims-cdh514-package-8.3.2019.05.00-371-dist](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-hadoop-shims-cdh514-package-8.3.2019.05.00-371-dist/pentaho-hadoop-shims-cdh514-package-8.3.2019.05.00-371-dist.zip)
+
+[pentaho-hadoop-shims-emr511-package-8.3.2019.05.00-371-dist](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-hadoop-shims-emr511-package-8.3.2019.05.00-371-dist/pentaho-hadoop-shims-emr511-package-8.3.2019.05.00-371-dist.zip)
+
+[pentaho-hadoop-shims-hdp26-package-8.3.2019.05.00-371-dist](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-hadoop-shims-hdp26-package-8.3.2019.05.00-371-dist/pentaho-hadoop-shims-hdp26-package-8.3.2019.05.00-371-dist.zip)
 
 
 ### Download Pentaho Big data plugin to support Hadoop drivers

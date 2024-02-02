@@ -196,7 +196,7 @@ Get in [https://sourceforge.net/projects/jfreereport](https://sourceforge.net/pr
 #### 8.x
 [pre-classic-sdk-8.3.0.0-371](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pre-classic-sdk-8.3.0.0-371/pre-classic-sdk-8.3.0.0-371.zip)
 
-### Dwonload Shim
+### Download Shim
 #### 8.x
 [pentaho-hadoop-shims-cdh61-package-8.3.2019.05.00-371-dist](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-hadoop-shims-cdh61-package-8.3.2019.05.00-371-dist/pentaho-hadoop-shims-cdh61-package-8.3.2019.05.00-371-dist.zip)
 

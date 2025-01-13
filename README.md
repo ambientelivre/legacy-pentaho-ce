@@ -13,9 +13,10 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 ### Download Pentaho Server
 
 #### 9.x
-[pentaho-server-ce-9.3.0.0-428](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-server-ce-9.3.0.0-428/pentaho-server-ce-9.3.0.0-428.zip) 
 
 [pentaho-server-ce-9.4.0.0-343](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-server-ce-9.4.0.0-343/pentaho-server-ce-9.4.0.0-343.zip) 
+
+[pentaho-server-ce-9.3.0.0-428](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-server-ce-9.3.0.0-428/pentaho-server-ce-9.3.0.0-428.zip) 
 
 [pentaho-server-ce-9.2.0.0-290](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-server-ce-9.2.0.0-290/pentaho-server-ce-9.2.0.0-290.zip) 
 

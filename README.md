@@ -236,4 +236,6 @@ Version 6.1 and 4.4 [Veerapat Taweesapaya](https://www.linkedin.com/in/veerapat-
 
 Version 6.1, 8.1, 8.2, 8.3, 9.0, 9.1 and 9.2 [Fernando Maia da Mota](https://github.com/fernandommota)
 
+Version PDI 9.1 [Fernando Poffo](https://www.linkedin.com/in/fernandopoffo/)
+
 You have other version not list in this repo ? Send the link from zip marcio at ambientelivre.com.br!

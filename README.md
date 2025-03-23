@@ -244,4 +244,6 @@ Version 6.1, 8.1, 8.2, 8.3, 9.0, 9.1 and 9.2 [Fernando Maia da Mota](https://git
 
 Version PDI 9.1 [Fernando Poffo](https://www.linkedin.com/in/fernandopoffo/)
 
+Varsion 8.1 [Carlos Santos](https://github.com/carlossantospt) 
+
 You have other version not list in this repo ? Send the link from zip marcio at ambientelivre.com.br!

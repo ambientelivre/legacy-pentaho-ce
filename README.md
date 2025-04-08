@@ -151,6 +151,8 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 #### 7.x
 [pad-ce-7.1.0.0-12](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pad-ce-7.1.0.0-12/pad-ce-7.1.0.0-12.zip)
 
+[pad-ce-7.0.0.0-25](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pad-ce-7.0.0.0-25/pad-ce-7.0.0.0-25.zip)
+
 ### Download Pentaho Metadata Editior
 #### 9.x
 [pme-ce-9.4.0.0-343](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pme-ce-9.4.0.0-343/pme-ce-9.4.0.0-343.zip)

@@ -238,6 +238,9 @@ Get in [https://sourceforge.net/projects/jfreereport](https://sourceforge.net/pr
 #### 8.x
 [pentaho-big-data-plugin-8.3.0.0-371](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-big-data-plugin-8.3.0.0-371/pentaho-big-data-plugin-8.3.0.0-371.zip)
 
+[pentaho-big-data-plugin-8.0.0.0-28](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-big-data-plugin-8.0.0.0-28/pentaho-big-data-plugin-8.0.0.0-28.zip)
+
+
 ## Project Lead
 [Marcio Junior Vieira](https://www.linkedin.com/in/mvieira1/) - [Ambiente Livre](https://www.ambientelivre.com.br)
 

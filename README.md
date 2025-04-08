@@ -36,6 +36,8 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 #### 7.x 
 [pentaho-server-ce-7.1.0.0-12](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/7.1.0.0-12/pentaho-server-ce-7.1.0.0-12.zip) 
 
+[pentaho-server-ce-7.0.0.0-25](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-server-ce-7.0.0.0-25/pentaho-server-ce-7.0.0.0-25.zip) 
+
 #### 6.x 
 [pentaho-server-6.1.0.1-196](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-server-6.1.0.1-196/pentaho-server-6.1.0.1-196.zip) 
 

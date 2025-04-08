@@ -148,6 +148,8 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 #### 8.x
 [pad-ce-8.3.0.0-371](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pad-ce-8.3.0.0-371/pad-ce-8.3.0.0-371.zip)
 
+[pad-ce-8.0.0.0-28](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pad-ce-8.0.0.0-28/pad-ce-8.0.0.0-28.zip)
+
 #### 7.x
 [pad-ce-7.1.0.0-12](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pad-ce-7.1.0.0-12/pad-ce-7.1.0.0-12.zip)
 
@@ -246,6 +248,8 @@ Version 6.1, 8.1, 8.2, 8.3, 9.0, 9.1 and 9.2 [Fernando Maia da Mota](https://git
 
 Version PDI 9.1 [Fernando Poffo](https://www.linkedin.com/in/fernandopoffo/)
 
-Varsion 8.1 [Carlos Santos](https://github.com/carlossantospt) 
+Version 8.1 [Carlos Santos](https://github.com/carlossantospt) 
+
+Version 7.0, 8.0, 6.1, 5.4, 3.9, 3.13 [Ing. Bernabeu R. Dario](https://github.com/bernabeudario/)
 
 You have other version not list in this repo ? Send the link from zip marcio at ambientelivre.com.br!

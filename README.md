@@ -207,6 +207,11 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 
 [prd-ce-8.0.0.0-28](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/prd-ce-8.0.0.0-28/prd-ce-8.0.0.0-28.zip)
 
+#### 7.x
+[prd-ce-7.1.0.0-12](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/prd-ce-7.1.0.0-12/prd-ce-7.1.0.0-12.zip)
+
+[prd-ce-7.0.0.0-25](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/prd-ce-7.0.0.0-25/prd-ce-7.0.0.0-25.zip)
+
 #### 5.x
 [prd-ce-5.0.1-stable](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/prd-ce-5.0.1-stable/prd-ce-5.0.1-stable.zip)
 

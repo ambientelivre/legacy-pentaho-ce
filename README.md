@@ -212,10 +212,20 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 
 [prd-ce-7.0.0.0-25](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/prd-ce-7.0.0.0-25/prd-ce-7.0.0.0-25.zip)
 
+#### 6.x
+[prd-ce.6.1.0](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/prd-ce.6.1.0/prd-ce.6.1.0.zip)
+
 #### 5.x
+[prd-ce-5.4.0.1-130](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/prd-ce-5.4.0.1-130/prd-ce-5.4.0.1-130.zip)
+
 [prd-ce-5.0.1-stable](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/prd-ce-5.0.1-stable/prd-ce-5.0.1-stable.zip)
 
+
+
 #### 3.x 
+
+[prd-ce-3.9.1-GA](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/prd-ce-3.9.1-GA/prd-ce-3.9.1-GA.zip)
+
 Get in [https://sourceforge.net/projects/jfreereport](https://sourceforge.net/projects/jfreereport)
 
 ### Download Pentaho Report Designer Hadoop addon (support hive/impala connectivity as a datasource)

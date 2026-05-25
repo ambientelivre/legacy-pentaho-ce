@@ -56,6 +56,8 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 #### 8.x
 [pentaho-server-manual-ce-8.3.0.0-371](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-server-manual-ce-8.3.0.0-371/pentaho-server-manual-ce-8.3.0.0-371.zip) 
 
+#### 3.x
+[biserver-ce-3.6.0](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/biserver-ce-3.6.0/biserver-ce-3.6.0-stable.tar.gz)
 
 ### Download Pentaho Data Integration
 #### 9.x 

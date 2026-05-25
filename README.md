@@ -289,6 +289,10 @@ Get in [https://sourceforge.net/projects/jfreereport](https://sourceforge.net/pr
 [pentaho-big-data-plugin-8.0.0.0-28](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pentaho-big-data-plugin-8.0.0.0-28/pentaho-big-data-plugin-8.0.0.0-28.zip)
 
 
+### Download Pentaho Designer Studio
+#### 3.x
+[pds-ce-linux-3.6.0](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pds-ce-linux-3.6.0/pds-ce-linux-3.6.0-stable.tar.gz)
+
 ## Project Lead
 [Marcio Junior Vieira](https://www.linkedin.com/in/mvieira1/) - [Ambiente Livre](https://www.ambientelivre.com.br)
 

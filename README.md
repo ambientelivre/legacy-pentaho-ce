@@ -193,6 +193,9 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 #### 5.x
 [pme-ce-5.0.1-stable](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pme-ce-5.0.1/pme-ce-5.0.1-stable.zip)
 
+#### 3.x
+[pme-ce-3.6.0](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pme-ce-3.6.0/pme-ce-3.6.0-stable.tar.gz)
+
 ### Download Pentaho Metadata Editor Hadoop addon (support hive/impala connectivity as a datasource)
 #### 9.x
 [pme-ce-9.4.0.0-343-hadoop-addon](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pme-ce-9.4.0.0-343-hadoop-addon/pme-ce-9.4.0.0-343-hadoop-addon.zip)

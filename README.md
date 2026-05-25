@@ -314,6 +314,6 @@ Version 7.0, 8.0, 6.1, 5.4, 3.9, 3.13 [Ing. Bernabeu R. Dario](https://github.co
 
 Version PDI 4.3 [Victor Hugo Villarreal](https://www.linkedin.com/in/victorvillarrealvaldes/) 
 
-Version PDI 4.0 - [Iohann Tachy](https://www.linkedin.com/in/iohann-tachy)   
+Version PDI 4.0, biserver-ce 3.6.0, PRD 3.6.1, PME 3.6.0, PDS 3.6.0 - [Iohann Tachy](https://www.linkedin.com/in/iohann-tachy)   
 
 You have other version not list in this repo ? Send the link from zip marcio at ambientelivre.com.br!

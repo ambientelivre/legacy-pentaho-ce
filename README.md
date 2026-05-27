@@ -94,6 +94,10 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 #### 5.x
 [pdi-ce-5.0.1](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pdi-ce-5.0.1/pdi-ce-5.0.1-stable.zip) 
 
+[pdi-ce-5.3.0](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pdi-ce-5.3.0/pdi-ce-5.3.0.0-213.zip) 
+
+
+
 #### 4.x
 
 [pdi-ce-4.0.0](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pdi-ce-4.0.0/pdi-ce-4.0.0-stable.tar.gz) 

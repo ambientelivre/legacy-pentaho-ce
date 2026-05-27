@@ -162,6 +162,8 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 
 [psw-ce-3.8.0.0-209](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/psw-ce-3.8.0.0-209/psw-ce-3.8.0.0-209.zip)
 
+[psw-ce-3.6.1](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/psw-ce-3.6.1/psw-ce-3.6.1.zip)
+
 ### Download Pentaho Aggregation Desiner
 #### 9.x
 [pad-ce-9.4.0.0-343](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pad-ce-9.4.0.0-343/pad-ce-9.4.0.0-343.zip)

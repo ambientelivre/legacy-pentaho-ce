@@ -44,7 +44,7 @@ Currently only versions 9.4, 9.3, 9.2 and 8.3.
 #### 5.x
 [biserver-ce-5.0.1](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/biserver-ce-5.0.1-stable/biserver-ce-5.0.1-stable.zip) 
 
-[biserver-ce-5.1.0.0](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/biserver-ce-5.1.0.0/biserver-ce-5.1.0.0-752.zip) 
+[biserver-ce-5.1.0](https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/biserver-ce-5.1.0.0/biserver-ce-5.1.0.0-752.zip) 
 
 ### Download Pentaho Server manual install assembly
 
